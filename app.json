@@ -1,0 +1,12 @@
+{
+  "name": "CD-test2",
+  "displayName": "CD-test2",
+  "expo": {
+    "name": "CD-test2",
+    "slug": "CD-test2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
